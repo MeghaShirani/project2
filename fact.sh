@@ -1,6 +1,5 @@
 #!/bin/bash
 num="5 6 7 4 8 12"
-read num
 for i in $num
 do 
 	fact=1
